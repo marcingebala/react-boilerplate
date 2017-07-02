@@ -1,0 +1,14 @@
+{
+  'extends': [
+    'walmart',
+    'plugin:react/recommended'
+  ],
+  'rules': {
+    'quotes': [2, 'single'],
+    'no-console': 0,
+    'max-len': 0,
+    'max-statements': [1, 20],
+    'no-magic-numbers': 0,
+    'indent': [1, 2]
+  }
+}
